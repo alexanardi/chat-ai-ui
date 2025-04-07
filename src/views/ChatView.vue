@@ -68,7 +68,7 @@ onMounted(() => {
       </div>
       <div v-if="chatStore.isLoading" class="flex justify-start">
         <div class="bg-gray-700 text-white px-4 py-2 rounded-lg">
-          <span class="animate-pulse">AI is thinking...</span>
+          <span class="animate-pulse">GUID-e está pensando...</span>
         </div>
       </div>
     </div>
